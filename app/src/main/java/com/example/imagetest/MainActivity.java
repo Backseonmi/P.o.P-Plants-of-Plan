@@ -76,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
 
+
             inputFeature0.loadBuffer(byteBuffer);
 
             // Runs model inference and gets result.
